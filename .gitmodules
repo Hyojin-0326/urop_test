@@ -1,0 +1,6 @@
+[submodule "librealsense"]
+	path = librealsense
+	url = https://github.com/IntelRealSense/librealsense.git
+[submodule "external/librealsense"]
+	path = external/librealsense
+	url = https://github.com/IntelRealSense/librealsense.git
